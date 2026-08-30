@@ -1,0 +1,27 @@
+{
+  "name": "清掃担当者チェックリスト",
+  "short_name": "清掃記録",
+  "id": "cleaning-checklist-ipad",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "display_override": ["window-controls-overlay", "standalone"],
+  "orientation": "landscape",
+  "background_color": "#fbfcfc",
+  "theme_color": "#1f6a43",
+  "description": "掃除項目ごとの担当者を記録する、横向きiPad用のローカルPWAです。",
+  "icons": [
+    {
+      "src": "./icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "./icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
