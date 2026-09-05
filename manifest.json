@@ -6,10 +6,9 @@
   "scope": "./",
   "display": "standalone",
   "display_override": ["window-controls-overlay", "standalone"],
-  "orientation": "landscape",
   "background_color": "#fbfcfc",
   "theme_color": "#1f6a43",
-  "description": "掃除項目ごとの担当者を記録する、横向きiPad用のローカルPWAです。",
+  "description": "掃除項目ごとの担当者を記録する、iPad用のローカルPWAです。",
   "icons": [
     {
       "src": "./icon-192.png",
