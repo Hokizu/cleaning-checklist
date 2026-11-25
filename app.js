@@ -3,17 +3,17 @@
 
   const STORAGE_KEY = "cleaning-checklist-ipad-v1";
   const MAX_HISTORY = 10;
-  const DEFAULT_NAMES = ["田中", "佐藤", "鈴木"];
+  const DEFAULT_NAMES = [];
   const ITEMS = [
-    "机・椅子　拭き掃除（一般席）",
-    "机・椅子　拭き掃除（幼児席）",
-    "トイレ",
-    "下駄箱",
-    "本棚整頓",
-    "トイレ床・ドア",
-    "入口・裏口ハンドル",
-    "待合室　椅子・床　拭き掃除",
-    "洗面所"
+    "掃除機",
+    "掃除機",
+    "掃除機",
+    "台拭き",
+    "",
+    "",
+    "",
+    "",
+    ""
   ];
 
   const state = loadState();
